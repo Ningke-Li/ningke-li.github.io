@@ -12,13 +12,15 @@ redirect_from:
 
 # 👑 About Me
 
-Hi, I'm a master student in SECURITY PRIDE Research Group at Huazhong University of Science and Technology (HUST, School of Cyber Science and Engineering), co-supervised by Prof. [Haoyu Wang](https://howiepku.github.io/) and Dr. [Kailong Wang](https://wangklsg.github.io/). I received my B.E. degree in Information Security from Beijing University of Posts and Telecommunications in 2022. My research interests include AI + Program Analysis, OSS Security, and LLM Security.
+Hi, I'm a PhD student in TEST Lab at the School of Computing, National University of Singapore, supervised by Prof. [Manuel Rigger](https://www.manuelrigger.at/). I received my master degree in Cybersecurity from Huazhong University of Science and Technology in 2025 under the supervision of Prof. [Haoyu Wang](https://howiepku.github.io/) and Prof. [Kailong Wang](https://wangklsg.github.io/). I received my B.E. degree in Information Security from Beijing University of Posts and Telecommunications in 2022. My research interests include AI4Testing and Testing4AI.
 
 **Recently I have been diving into the deep ocean of programming languages (focusing on temporal logic and automatic theorem proving). 📚🥰**
 
-**Looking for a PhD position in Europe and Singapore 💖**
-
 # 🥳 News
+- [04 Aug 2025] I become a PhD student at NUS.
+
+- [22 Jun 2025] I received my master degree at HUST.
+
 - [13 Jun 2024] Our paper on metamorphic testing about LLM hallucination is accepted by OOPSLA 2024.
 
 - [01 Nov 2023] I recieve 2023 China National Scholarship.
