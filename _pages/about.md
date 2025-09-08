@@ -14,7 +14,6 @@ redirect_from:
 
 Hi, I'm a PhD student in TEST Lab at the School of Computing, National University of Singapore, supervised by Prof. [Manuel Rigger](https://www.manuelrigger.at/). I received my master degree in Cybersecurity from Huazhong University of Science and Technology in 2025 under the supervision of Prof. [Haoyu Wang](https://howiepku.github.io/) and Prof. [Kailong Wang](https://wangklsg.github.io/). I received my B.E. degree in Information Security from Beijing University of Posts and Telecommunications in 2022. My research interests include AI4Testing and Testing4AI.
 
-**Recently I have been diving into the deep ocean of programming languages (focusing on temporal logic and automatic theorem proving). 📚🥰**
 
 # 🥳 News
 - [04 Aug 2025] I become a PhD student at NUS.
