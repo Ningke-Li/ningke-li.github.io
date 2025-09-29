@@ -16,6 +16,8 @@ Hi, I'm a PhD student in TEST Lab at the School of Computing, National Universit
 
 
 # 🥳 News
+- [22 Sep 2025] Our survey paper on LLM4Security is accepted by TOSEM.
+  
 - [04 Aug 2025] I become a PhD student at NUS.
 
 - [22 Jun 2025] I received my master degree at HUST.
@@ -36,6 +38,10 @@ Hi, I'm a PhD student in TEST Lab at the School of Computing, National Universit
 
 **(\# Equal Contribution, \* Corresponding Author)**
 
+* **Large language models for cyber security: A systematic literature review**
+  <br>Hanxiang Xu, Shenao Wang, **Ningke Li**, Kailong Wang\*, Yanjie Zhao, Kai Chen\*, Ting Yu, Yang Liu, Haoyu Wang\*.
+  <br>ACM Transactions on Software Engineering and Methodology (TOSEM), 2025.
+  
 * **Drowzee: Metamorphic Testing for Fact-conflicting Hallucination Detection in Large Language Models**
   <br>**Ningke Li**\#, Yuekang Li\#, Yi Liu, Ling Shi, Kailong Wang\*, Haoyu Wang.
   <br>Object-Oriented Programming, Systems, Languages & Applications (OOPSLA), 2024.
