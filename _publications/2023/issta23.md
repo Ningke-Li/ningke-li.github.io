@@ -21,5 +21,5 @@ authors:
   - Haoyu Wang
 links:
   Paper: https://dl.acm.org/doi/10.1145/3597926.3598037
-  Code: https://github.com/oneThousand1000/LPFF-dataset
+  Code: https://github.com/security-pride/Vulnerability-Dataset-Denoising
 --- 

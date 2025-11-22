@@ -24,4 +24,5 @@ authors:
   - Haoyu Wang
 links:
   Paper: https://dl.acm.org/doi/10.1145/3769676
+  Arxiv: https://arxiv.org/abs/2405.04760
 --- 
