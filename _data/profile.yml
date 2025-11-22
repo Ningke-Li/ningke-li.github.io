@@ -60,8 +60,6 @@ education:
 
 
 # experience:
-# - name: Reviewer/Sub-Reviewer
-#   date: ASE 2024, FSE 2024, MSR 2024, Internetware 2024, EMSE 2024, ICECCS 2024
 
 awards:
 - name: China National Scholarship
@@ -70,3 +68,11 @@ awards:
   date: 2022
 - name: China National Scholarship
   date: 2019
+
+services:
+- role: Reviewer/Sub-reviewer
+  venue: ASE, FSE, MSR, Internetware, EMSE, ICECCS...
+- role: Student Volunteer
+  venue: OOPSLA 2025
+- role: Member
+  venue: NUS SoC Student Area Search Committees
