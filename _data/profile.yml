@@ -4,7 +4,7 @@ primary_name: "Ningke Li"
 
 positions:
 - logo: /assets/images/badges/nus.png  # Logo is optional
-  name: Year1 Ph.D. student
+  name: Ph.D. student
 # - logo: /assets/images/badges/meta.jpg   # Logo is optional
 #   name: Intern at the Codec Avatars Lab, Meta
 
@@ -33,7 +33,7 @@ short_bio: >-
   </p>
 
 portrait_url: /assets/images/photos/profile-ningke.jpg
-portrait_url_var1: /assets/images/photos/zaizaidou.jpg
+portrait_url_var1: /assets/images/zaizaidou.jpg
 
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
