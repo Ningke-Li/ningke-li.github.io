@@ -13,8 +13,8 @@ abstract: >-
 
 cover:          /assets/images/publications/overconfidence.png
 authors:
-  - Fengfei Sun *
-  - Ningke Li *
+  - Fengfei Sun*
+  - Ningke Li*
   - Kailong Wang
   - Lorenz Goette
 links:

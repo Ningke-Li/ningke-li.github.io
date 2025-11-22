@@ -13,8 +13,8 @@ abstract: >-
 
 cover:          /assets/images/publications/issta.png
 authors:
-  - Xu Nie *
-  - Ningke Li *
+  - Xu Nie*
+  - Ningke Li*
   - Kailong Wang
   - Shangguang Wang
   - Xiapu Luo

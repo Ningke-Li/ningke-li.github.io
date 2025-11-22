@@ -13,8 +13,8 @@ abstract: >-
 
 cover:          /assets/images/publications/oopsla24.jpg
 authors:
-  - Ningke Li *
-  - Yuekang Li *
+  - Ningke Li*
+  - Yuekang Li*
   - Yi Liu
   - Ling Shi
   - Kailong Wang
