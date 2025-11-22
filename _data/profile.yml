@@ -3,8 +3,8 @@ primary_name: "Ningke Li"
 # navbar_name: "Your Name"
 
 positions:
-- logo: /assets/images/badges/nus.png  # Logo is optional
-  name: Ph.D. student
+# - logo: /assets/images/badges/nus.png  # Logo is optional
+- name: Ph.D. student
 # - logo: /assets/images/badges/meta.jpg   # Logo is optional
 #   name: Intern at the Codec Avatars Lab, Meta
 
@@ -49,13 +49,20 @@ education:
 - name: Huazhong University of Science and Technology
   logo: /assets/images/badges/hust.svg
   logo2: /assets/images/badges/securitypride.jpeg
-  position: M.S. in Cybersecurity
+  position: >- 
+    Security Pride Lab <br/>
+    M.S. in Cybersecurity
   date: Sep. 2022 - Jun. 2025
 - name: Beijing University of Posts and Telecommunications
   logo: /assets/images/badges/bupt.png
   position: B.S. in Information Security
   date: Sep. 2018 - Jun. 2022
-  
+
+
+# experience:
+# - name: Reviewer/Sub-Reviewer
+#   date: ASE 2024, FSE 2024, MSR 2024, Internetware 2024, EMSE 2024, ICECCS 2024
+
 awards:
 - name: China National Scholarship
   date: 2023
