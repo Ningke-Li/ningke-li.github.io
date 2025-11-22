@@ -70,11 +70,14 @@
         
         {% for year in news_by_year %}
         <div class="mt-2 mb-1 text-muted">{{ year.name }}</div>
-        {% for item in year.items %}
-        <div class="timeline-item">
-            <div>{{ item.date | date: "%d %b" }} — {{ item.title }}</div>
-        </div>
-        {% endfor %}
+        <div class="media-body">
+                {% for item in year.items %}
+                <div class="my-1 d-flex">
+                    <div>{{ item.title }}</div>
+                    <div class="ml-auto mt-auto text-muted no-break"><i>{{ item.date | date: "%b %d" }}</i></div>
+                </div>
+                {% endfor %}
+            </div>
         {% endfor %}
     </div>
 </div>
