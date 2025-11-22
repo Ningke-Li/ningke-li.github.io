@@ -1,4 +1,4 @@
-{% assign news_by_year = site.news | sort: "date" | reverse | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
+<!-- {% assign news_by_year = site.news | sort: "date" | reverse | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
 <style>
  
   .custom-radius {
@@ -21,6 +21,60 @@
                 {% endfor %}
             </div>
         </div>
+        {% endfor %}
+    </div>
+</div> -->
+
+<style>
+.news-scroll {
+    max-height: 240px;
+    overflow-y: auto;
+    padding-left: 4px;
+    scrollbar-width: none;
+}
+.news-scroll::-webkit-scrollbar {
+    display: none;
+}
+
+.timeline-item {
+    position: relative;
+    padding-left: 14px;
+    margin-bottom: 8px;
+}
+.timeline-item::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 6px;
+    width: 6px;
+    height: 6px;
+    background: #48A6A7;
+    border-radius: 50%;
+}
+.timeline-item::after {
+    content: "";
+    position: absolute;
+    left: 2.5px;
+    top: 18px;
+    width: 1.5px;
+    height: calc(100% - 18px);
+    background: #d0d0d0;
+}
+</style>
+
+<div class="my-3 bg-white shadow-sm custom-radius">
+    <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-rss"></i> News</h6>
+
+    <div class="px-3 pb-2 news-scroll">
+        {% assign news_by_year = site.news | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
+        
+        {% for year in news_by_year %}
+        <div class="mt-2 mb-1 text-muted">{{ year.name }}</div>
+        {% for item in year.items %}
+        <div class="timeline-item">
+            <div>{{ item.date | date: "%d %b" }} — {{ item.title }}</div>
+        </div>
+        {% endfor %}
         {% endfor %}
     </div>
 </div>
