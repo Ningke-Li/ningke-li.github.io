@@ -2,7 +2,7 @@
 title:          "MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains"
 date:           2023-08-15 00:00:00 +0800
 selected:       false
-pub:            "The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Challenge Track (full paper), 2023"
+pub:            "The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Challenge Track (full paper)"
 pub_pre:        ""
 # pub_post:       "Conference Track"
 pub_last:       ""

@@ -2,7 +2,7 @@
 title:          "Understanding and Tackling Label Errors in Deep Learning-based Vulnerability Detection"
 date:           2023-04-07 00:00:00 +0800
 selected:       false
-pub:            "ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023)"
+pub:            "ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)"
 pub_pre:        ""
 # pub_post:       "Conference Track"
 pub_last:       ""

@@ -2,7 +2,7 @@
 title:          "Drowzee: Metamorphic Testing for Fact-conflicting Hallucination Detection in Large Language Models"
 date:           2024-06-13 00:00:00 +0800
 selected:       true
-pub:            "Object-Oriented Programming, Systems, Languages & Applications (OOPSLA), 2024"
+pub:            "Object-Oriented Programming, Systems, Languages & Applications (OOPSLA)"
 pub_pre:        ""
 # pub_post:       "Conference Tracks"
 pub_last:       ""

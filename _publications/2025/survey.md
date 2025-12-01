@@ -2,7 +2,7 @@
 title:          "Large language models for cyber security: A systematic literature review"
 date:           2025-09-22 00:00:00 +0800
 selected:       true
-pub:            "ACM Transactions on Software Engineering and Methodology (TOSEM), 2025"
+pub:            "ACM Transactions on Software Engineering and Methodology (TOSEM)"
 pub_pre:        ""
 # pub_post:       "Conference Track"
 pub_last:       ""
